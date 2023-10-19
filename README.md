@@ -1,5 +1,5 @@
 # firewall.exe
-Firewall app made in python. This is an .exe file not a .py script. A .py script is available if you want plz just put in a problem ticket.
+Firewall app made in python. This is an .exe file not a .py script. A .py script is available if you want plz just go to the folder 
 
-DO NT TURN THIS INTO A VIRUS OR A PEICE OF MALWARE
+DO NT TURN THIS INTO A VIRUS OR A PIECE OF MALWARE
 
